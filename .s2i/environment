@@ -1,0 +1,4 @@
+API_TYPE=GRPC
+SERVICE_TYPE=MODEL
+JAVA_IMPORT_PATH=com.griddynamics.fusiontest.model.H2OModelHandler
+MODEL_NAME=fusiontest
